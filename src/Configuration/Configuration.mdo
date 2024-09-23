@@ -40,6 +40,5 @@
   <commonTemplates>CommonTemplate.ИсторияИзмененийРегистра</commonTemplates>
   <commonModules>CommonModule.ИсторияИзмененийРегистров</commonModules>
   <commonCommands>CommonCommand.ПоказатьИсториюДанных</commonCommands>
-  <dataProcessors>DataProcessor.КонсольЗапросов</dataProcessors>
   <informationRegisters>InformationRegister.ААВерсии</informationRegisters>
 </mdclass:Configuration>
