@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="76dda253-1f0a-42fb-a82b-c43e650ef20e">
+  <name>ПоказатьИсториюДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Показать историю данных</value>
+  </synonym>
+  <group>FormCommandBarImportant</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+  <picture xsi:type="core:PictureRef">
+    <picture>StdPicture.DataHistory</picture>
+  </picture>
+</mdclass:CommonCommand>
